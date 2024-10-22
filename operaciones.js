@@ -42,11 +42,6 @@ resultadoModulo = num1 % num2;
 console.log("El resto de la división es: ", resultadoModulo)
 
 
-// ¿Cualdelosvalores esmayor?Sielvaloresmayor,mostraráunvalor
-// boolean true. Delocontrario mostrará false
-// g. ¿Cualdelosvaloresesmenor?Sielvaloresmenormostraráunvalor
-// boolean true.Delocontrario mostrará false
-
 //Mayor
 
 let Mayor = num1 > num2;
